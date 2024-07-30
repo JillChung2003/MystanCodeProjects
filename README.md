@@ -1,6 +1,6 @@
 # MystanCodeProjects
 Hi there! <br>
-This repository holds my programming projects done during the period of StanCode SC101 course.<br>
+The repository contains the programming projects I completed in the stanCode SC101 course.<br>
 <br>
 ## Project Source Code:<br>
 - [Breakout Game](https://github.com/JillChung2003/MystanCodeProjects/blob/6e126155dc1970632f83092134e007aaba6a3f4f/stanCodeProjects/Break%20Out%20Game/breakout.py)
