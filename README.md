@@ -11,5 +11,6 @@ This repository holds my programming projects done during the period of StanCode
   -  data processing & visualization
 -  [Web Crawler](https://github.com/JillChung2003/MystanCodeProjects/blob/43def87a24033ce710d6df0af8b5e8ba86c2d44d/stanCodeProjects/Web%20Crawler/webcrawler.py)
     -  data structure
-
+-  [Pedestrian Removing System](https://github.com/JillChung2003/MystanCodeProjects/blob/593a26f44ca25718e2c9b83e69a9004151d4804e/stanCodeProjects/Pedestrian%20Removing%20System/stanCodoshop.py)
+    -  image processing
 
